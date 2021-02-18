@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&family=Roboto:wght@400;700&display=swap');
+
+body {
+  font-family: 'Nunito', Verdana, Geneva, Sans-Serif;
+  font-size: clamp(16px, 3vw, 28px);
+  font-variant: small-caps;
+  word-spacing: 0.325rem;
+  line-height: 1.5;
+  font-weight: 700;
+  letter-spacing: 0.125rem;
+  color: whitesmoke;
+  initial-letter: 3;
+  background-color: #3EC1A2;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto', MS Sans Serif, Geneva, Sans-Serif;
+  font-weight: 700;
+  word-spacing: 0.25rem;
+  color: whitesmoke;
+  font-size: clamp(26px, 3vw, 38px);
+}
+
+
+
